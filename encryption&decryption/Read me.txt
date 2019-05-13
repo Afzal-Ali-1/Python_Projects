@@ -1,0 +1,6 @@
+We can use this program to encrypt and decrypt our passwords,
+Suppose you want to share your passcode ,message etc with your friends but you 
+have a fear that ,what happend if someone other read it ?,so here is a solution 
+through this program you can encrypt your passcode or message in a random strings or 
+number then the you can share your encrypted message to your friend and personally tell 
+him/her to decode the messgae through same program .
